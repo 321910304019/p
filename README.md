@@ -1,2 +1,0 @@
-# p
-Assignment 2
